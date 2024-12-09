@@ -50,7 +50,7 @@ fun AppContent(onExitApp: () -> Unit) {
             Spacer(modifier = Modifier.height(16.dp))
             Image(
                 painter = painterResource(id = R.drawable.class_b),
-                contentDescription = "資管二B圖片",
+                contentDescription = "class_b.jpg",
                 modifier = Modifier.size(200.dp)
             )
             Spacer(modifier = Modifier.height(16.dp))
